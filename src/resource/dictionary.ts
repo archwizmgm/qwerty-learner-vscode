@@ -2030,6 +2030,21 @@ const germanExam: DictionaryResource[] = [
   },
 ]
 
+// 自定义词典
+const customDictionary: DictionaryResource[] = [
+  {
+    id: 'custom-nce-3',
+    name: '自定义-新概念英语-3',
+    description: '新概念英语新版第三册',
+    category: '自定义词典',
+    tags: ['新概念英语'],
+    url: 'custom-nce-3.json',
+    length: 1,
+    language: 'en',
+    languageCategory: 'en',
+  }
+]
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
@@ -2041,6 +2056,7 @@ export const dictionaries: DictionaryResource[] = [
   ...programming,
   ...japaneseExam,
   ...germanExam,
+  ...customDictionary,
 ]
 
 /**
