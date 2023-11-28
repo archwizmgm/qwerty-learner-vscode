@@ -1,8 +1,321 @@
 [
     {
-        "name": "Capacity",
+        "name": "spot",
         "trans": [
-            "Capacity:获取或设置该内部数据结构在不调整大小的情况下能够容纳的元素总数"
+            "n. 斑点,地点,瑕疵 vt. 看见,认出,弄脏,点缀"
+        ]
+    },
+    {
+        "name": "evidence",
+        "trans": [
+            "n. 证据,迹象,证明 vt. 证实,表明"
+        ]
+    },
+    {
+        "name": "court",
+        "trans": [
+            "n. 法庭,庭院,球场,朝廷 vt. 追求,献殷勤,招致,设法获得"
+        ]
+    },
+    {
+        "name": "accumulate",
+        "trans": [
+            "vt. 积累,堆积 vi. 堆积,积累"
+        ]
+    },
+    {
+        "name": "amass",
+        "trans": [
+            "vt. 积聚,积累"
+        ]
+    },
+    {
+        "name": "collect",
+        "trans": [
+            "vt. 收集,搜集,领取,使集合 vi. 收款,募捐,聚集"
+        ]
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "vt. 收集,聚集,使聚集,推测 vi. 聚集,逐渐增多,采集"
+        ]
+    },
+    {
+        "name": "hoard",
+        "trans": [
+            "n. 贮藏品,藏匿物 vt. 贮藏,秘藏"
+        ]
+    },
+    {
+        "name": "oblige",
+        "trans": [
+            "vt. 强制,迫使,施恩于,帮忙"
+        ]
+    },
+    {
+        "name": "human being",
+        "trans": [
+            "n. 人,人类"
+        ]
+    },
+    {
+        "name": "mankind",
+        "trans": [
+            "n. 人类"
+        ]
+    },
+    {
+        "name": "humankind",
+        "trans": [
+            "n. 人类"
+        ]
+    },
+    {
+        "name": "human race",
+        "trans": [
+            "n. 人类"
+        ]
+    },
+    {
+        "name": "humanity",
+        "trans": [
+            "n. 人类,人性,人道,人文学科"
+        ]
+    },
+    {
+        "name": "somehow",
+        "trans": [
+            "adv. 不知怎么地,以某种方式"
+        ]
+    },
+    {
+        "name": "somewhat",
+        "trans": [
+            "pron. 一点儿,某种程度上 adv. 有点,稍微"
+        ]
+    },
+    {
+        "name": "somewhere",
+        "trans": [
+            "adv. 在某处,到某处,大约"
+        ]
+    },
+    {
+        "name": "disturb",
+        "trans": [
+            "vt. 打扰,干扰,使不安 vi. 打搅,干扰"
+        ]
+    },
+    {
+        "name": "equal",
+        "trans": [
+            "adj. 相等的,平等的,胜任的,平衡的",
+            "n. 等号"
+        ]
+    },
+    {
+        "name": "raise",
+        "trans": [
+            "vt. 抬起,提高,筹集,饲养,引起,提出",
+            "n. 加薪,上升"
+        ]
+    },
+    {
+        "name": "rise",
+        "trans": [
+            "vi. 上升,起立,起身,站起,升起",
+            "n. 上升,上坡"
+        ]
+    },
+    {
+        "name": "arise",
+        "trans": [
+            "vi. 出现,起身,升起,引发,发生",
+            "vt. 引起"
+        ]
+    },
+    {
+        "name": "arouse",
+        "trans": [
+            "vt. 唤醒,激发,引起,唤起,使奋发"
+        ]
+    },
+    {
+        "name": "archeology",
+        "trans": [
+            "n. 考古学"
+        ]
+    },
+    {
+        "name": "archeologist",
+        "trans": [
+            "n. 考古学家"
+        ]
+    },
+    {
+        "name": "biology",
+        "trans": [
+            "n. 生物学"
+        ]
+    },
+    {
+        "name": "biologist",
+        "trans": [
+            "n. 生物学家"
+        ]
+    },
+    {
+        "name": "geology",
+        "trans": [
+            "n. 地质学"
+        ]
+    },
+    {
+        "name": "geologist",
+        "trans": [
+            "n. 地质学家"
+        ]
+    },
+    {
+        "name": "psychology",
+        "trans": [
+            "n. 心理学"
+        ]
+    },
+    {
+        "name": "psychologist",
+        "trans": [
+            "n. 心理学家"
+        ]
+    },
+    {
+        "name": "physiology",
+        "trans": [
+            "n. 生理学"
+        ]
+    },
+    {
+        "name": "physiologist",
+        "trans": [
+            "n. 生理学家"
+        ]
+    },
+    {
+        "name": "prosperous",
+        "trans": [
+            "adj. 繁荣的, 兴旺的"
+        ]
+    },
+    {
+        "name": "prosperity",
+        "trans": [
+            "n. 繁荣, 兴旺"
+        ]
+    },
+    {
+        "name": "prosper",
+        "trans": [
+            "vi. 繁荣, 兴旺"
+        ]
+    },
+    {
+        "name": "poverty",
+        "trans": [
+            "n. 贫穷"
+        ]
+    },
+    {
+        "name": "thrive",
+        "trans": [
+            "vi. 兴旺, 繁荣"
+        ]
+    },
+    {
+        "name": "flourish",
+        "trans": [
+            "vi. 繁荣, 兴旺"
+        ]
+    },
+    {
+        "name": "story",
+        "trans": [
+            "n. 故事, 小说"
+        ]
+    },
+    {
+        "name": "classical",
+        "trans": [
+            "adj. 古典的, 经典的"
+        ]
+    },
+    {
+        "name": "classic",
+        "trans": [
+            "n. 经典作品, 杰作",
+            "adj. 经典的, 优秀的"
+        ]
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "adj. 电的, 电动的"
+        ]
+    },
+    {
+        "name": "electrical",
+        "trans": [
+            "adj. 电的, 电气的"
+        ]
+    },
+    {
+        "name": "historic",
+        "trans": [
+            "adj. 历史上著名的, 有历史意义的"
+        ]
+    },
+    {
+        "name": "historical",
+        "trans": [
+            "adj. 历史的, 史实的"
+        ]
+    },
+    {
+        "name": "economic",
+        "trans": [
+            "adj. 经济的"
+        ]
+    },
+    {
+        "name": "economical",
+        "trans": [
+            "adj. 节约的, 经济的"
+        ]
+    },
+    {
+        "name": "politic",
+        "trans": [
+            "adj. 精明的, 明智的"
+        ]
+    },
+    {
+        "name": "political",
+        "trans": [
+            "adj. 政治的"
+        ]
+    },
+    {
+        "name": "rest",
+        "trans": [
+            "n. 休息, 其余部分",
+            "vi. 休息, 静止",
+            "vt. 使休息"
+        ]
+    },
+    {
+        "name": "midst",
+        "trans": [
+            "n. 中间, 当中"
         ]
     }
 ]

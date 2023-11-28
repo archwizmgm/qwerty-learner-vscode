@@ -2039,7 +2039,7 @@ const customDictionary: DictionaryResource[] = [
     category: '自定义词典',
     tags: ['新概念英语'],
     url: 'custom-nce-3.json',
-    length: 1,
+    length: 52,
     language: 'en',
     languageCategory: 'en',
   }
